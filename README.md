@@ -1,4 +1,3 @@
-<a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
 <head>
     <style>
         .resBg {
