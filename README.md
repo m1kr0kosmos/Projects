@@ -183,7 +183,7 @@
     <title>Fast Inverse Square Root Algorithm</title>
   </head>
   <body>
-    <h1>From the Quake III game render program in C. Utilizes clever bit manipulation to achieve an aproximate of the Inverse Square Root for fast rendering of light source in three dimensions.</h1>
+    <h1>Fast Inverse Square Root Algorithm in C programming Language</h1>
     <iframe src="fastInvSqRt.pdf#toolbar=0" width="100%" height="500px">
     </iframe>
   </body>
