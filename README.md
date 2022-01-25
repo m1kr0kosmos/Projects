@@ -72,16 +72,16 @@
   </div>
      
       <p>
-        <a href="https://m1kr0kosmos.github.io/Map/" class="btn btn-primary my-2">  Map Navigation </a>
-        <a href="https://m1kr0kosmos.github.io/eyeMovement/" class="btn btn-primary my-2">  Eye Movement </a>
-        <a href="https://m1kr0kosmos.github.io/TowerOfHanoi/" class="btn btn-primary my-2">  Tower of Hanoi </a>
-        <a href="https://m1kr0kosmos.github.io/PacMan-Terrarium/" class="btn btn-primary my-2">  PacMan Terrarium </a>
-        <a href="https://github.com/m1kr0kosmos" class="btn btn-primary my-2">GitHub</a>
-        <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn btn-primary my-2">  YouTube</a>
-        <a href="https://www.instagram.com/boos_cl0.os/" class="btn btn-primary my-2">Instagram</a>
-        <a href="https://www.facebook.com/search/top?q=m1kr0kosmos" class="btn btn-primary my-2">Facebook</a>
-        <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn btn-primary my-2">LinkedIn</a>
-        <a href = "mailto: liamengineer01@protonmail.com" class="btn btn-primary my-2">EMAIL</a>
+        <a href="https://m1kr0kosmos.github.io/Map/" class="btn btn-primary mb1 bg-purple">  Map Navigation </a>
+        <a href="https://m1kr0kosmos.github.io/eyeMovement/" class="btn btn-primary mb1 bg-purple">  Eye Movement </a>
+        <a href="https://m1kr0kosmos.github.io/TowerOfHanoi/" class="btn btn-primary mb1 bg-purple">  Tower of Hanoi </a>
+        <a href="https://m1kr0kosmos.github.io/PacMan-Terrarium/" class="btn btn-primary mb1 bg-purple">  PacMan Terrarium </a>
+        <a href="https://github.com/m1kr0kosmos" class="btn btn-primary mb1 bg-purple">GitHub</a>
+        <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn btn-primary mb1 bg-purple">  YouTube</a>
+        <a href="https://www.instagram.com/boos_cl0.os/" class="btn btn-primary mb1 bg-purple">Instagram</a>
+        <a href="https://www.facebook.com/search/top?q=m1kr0kosmos" class="btn btn-primary mb1 bg-purple">Facebook</a>
+        <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn btn-primary mb1 bg-purple">LinkedIn</a>
+        <a href = "mailto: liamengineer01@protonmail.com" class="btn btn-primary mb1 bg-purple">EMAIL</a>
       </p>
         <h1>whoami</h1>
       <p class="lead text-muted">Hello! I am known by literally a few people as m1kr0kosmos on YouTube. I <3 programming. Enjoyed distro-hopping throgh Linux, but now use FreeBSD. I am working on a toy SLAM (Simultaneous Localization and Mapping) implementation. I am studying MMIX A RISC Computer for the New Millennium. THREE.js has been a fun new adventure, as well as beta-testing Jurassic 1 from AI21. I want to take the Open Box project further, and would like to use THREE.js to make a 3D Pacman game. I want to learn R and Swift, after I better grasp C, C++, C#, Binary, Assembly Python, JavaScript, HTML, and CSS ... Above are links to MIT course projects, as well as my Social Media! Please reach out there, or just email me. Below are links to projects and the next page of this site.</p>
@@ -114,7 +114,7 @@
       <p>
           
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/homeWork/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-           <a href = "https://m1kr0kosmos.github.io/homeWork/" class="btn btn-primary my-2">./homeWork</a>
+           <a href = "https://m1kr0kosmos.github.io/homeWork/" class="btn btn-primary mb1 bg-purple">./homeWork</a>
       </p>          
       
   <div class="navbar navbar-dark bg-dark shadow-sm">
@@ -130,7 +130,7 @@
 <footer class="text-muted">
   <div class="container">
     <p class="float-right">
-      <a href= "#" class="btn btn-primary my-2">Back to top</a>
+      <a href= "#" class="btn btn-primary mb1 bg-purple">Back to top</a>
     </p>
   </div>
 </footer>
@@ -183,7 +183,7 @@
     <title>Fast Inverse Square Root Algorithm</title>
   </head>
   <body>
-    <h1>Fast Inverse Square Root Algorithm</h1>
+    <h1>From the Quake III game render program in C. Utilizes clever bit manipulation to achieve an aproximate of the Inverse Square Root for fast rendering of light source in three dimensions.</h1>
     <iframe src="fastInvSqRt.pdf#toolbar=0" width="100%" height="500px">
     </iframe>
   </body>
