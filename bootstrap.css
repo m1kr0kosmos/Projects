@@ -37,8 +37,6 @@ next.children(':first-child').clone().appendTo($(this));
  
  
 });
- 
-</script>
 
 body {
   margin: 0;
@@ -73,3 +71,6 @@ body {
   transform: translate(-50%, -50%);
   border-radius: 50%;
 }
+
+ 
+</script>
