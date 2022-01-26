@@ -126,6 +126,25 @@
       
     </div>
   </div>
+        <html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+</head>
+
+<body>
+    <div class="eyes">
+        <div class="eye">
+            <div class="ball"></div>
+        </div>
+        <div class="eye">
+            <div class="ball"></div>
+        </div>
+    </div>
+</body>
+<script src="./eyes.js"></script>
+
+</html>
  
 <footer class="text-muted">
   <div class="container">
